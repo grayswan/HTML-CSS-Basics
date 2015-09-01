@@ -1,0 +1,42 @@
+h1 {
+  font-family: serif;
+  font-size: 3em;
+  text-align: center;
+}
+h2 {
+  font-family: serif;
+  text-align: center;
+}
+h2#jazzy-name {
+  color: #b41d6f;
+  font-style: italic;
+}
+body {
+  background-color: #8fd6aa
+}
+p {
+  font-family:serif;
+  font-size: 1.7em;
+  text-indent: 1em;
+}
+p.offset {
+  margin: 0 9em 0 9em;
+}
+img.smack-in-the-middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.style {
+  font-family: serif;
+  color: #b41d6f;
+  text-align: center;
+  font-size: 1.7em
+}
+div#jazzy-words {
+  color:#124369;
+  font-family: serif;
+  text-align: center;
+  font-size: 1.7em;
+  font-style: oblique;
+}
